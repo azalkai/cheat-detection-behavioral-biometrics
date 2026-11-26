@@ -5,7 +5,7 @@ Bachelor thesis, Faculty of Technical Sciences, University of Novi Sad (2026).
 **Author:** Ivana Bajić
 **Mentor:** Prof. Aleksandar Kovačević, PhD
 
-**Video walkthrough (~4 min):** (https://youtu.be/uPhUOlf3xJI)
+**Video walkthrough (~6 min):** (https://youtu.be/uPhUOlf3xJI)
 
 The slides are in Serbian; English subtitles are provided as a translation
 (enable them with the CC button). The video is a visual overview and does not
